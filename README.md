@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently building [News Sifter](https://github.com/minademian/newssifter) in public, a custom chatbot that provides context on news articles and sources.
-- 🔥 I just launched the 2024 glowup of my [website](minademian.com)!
+- 🔥 I just launched the 2024 glowup of my [website](https://minademian.com)!
 - 🌱 I’m currently learning more advanced topics within React and newest CSS features (2024).
 - 👯 I’m looking to collaborate on open-source projects in the field of audio and music!
 - 🤔 I’m looking for help with building in public.
