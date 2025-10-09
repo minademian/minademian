@@ -1,4 +1,4 @@
-# Hello! 👋
+# 👋 Hi, I’m Mina
 
 <!--
 **minademian/minademian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently building [News Sifter](https://github.com/minademian/newssifter) in public, a custom chatbot that provides context on news articles and sources.
-- 🔥 I just launched the 2024 glowup of my [website](minademian.com)!
-- 🌱 I’m currently learning more advanced topics within React and newest CSS features (2024).
-- 👯 I’m looking to collaborate on open-source projects in the field of audio and music!
-- 🤔 I’m looking for help with building in public.
-- 📫 How to reach me: [@minadimyan](twitter.com/minadimyan) on X and e-mail on mina at minademian dot com.
-- ⚡ Fun fact: I can do a decent impression of Cartman.
+I design and build systems that balance clarity, performance, and long-term maintainability.
+
+Currently:
+
+- ☕ Maintaining two **Java packages in production**, exploring developer tooling and cross-platform desktop applications.
+- 🔧 Leading development of an **open-source candidate project** for my employer, focused on **modular architecture**, **testing rigor**, **improving code coverage incrementally** and **transparent engineering practices**.
+- 🌐 Running **minademian.com**, my evolving portfolio.
+- 🌐 Maintaining [**The Craft Table**](https://blog.minademian.com), my personal tech blog.
+- 🎧 Building a **MCP server** for my employer that **mines and enables quick access** to libraries of audio recordings.
+
+I’m deepening my expertise in **React**, **TypeScript**, **Java**, **CI/CD**, **system design**, **software design and architecture** towards Staff-level impact, system coherence, and scalable abstractions.
+
+📫 Reach me on **X (@minadimyan)** or by email at **mina at minademian dot com**.
