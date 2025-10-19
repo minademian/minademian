@@ -24,7 +24,7 @@ Currently:
 - 🔧 Building a **VSCode plugin** that enables easier access to your chats with GitHub Copilot
 - 🔧 Leading development of an **open-source candidate project** `server-utilities` [link coming soon] - a collection of server utilities aimed at **auditing remote servers**.
 - 🔧 Building a **VSCode plugin** that enables easier access to your chats with GitHub Copilot
-- 🔧 Building a [React Native app](https://github.com/Ursine-Inc/rn-no-choice-alarm) with my best friend, an alarm clock you can't snooze!
+- 🔧 Building a [React Native app](https://github.com/Ursine-Inc/rn-no-choice-alarm) with my best friend - an alarm clock you can't snooze!
 - 🌐 Running **minademian.com**, my evolving portfolio.
 - 🌐 Maintaining [**The Craft Table**](https://blog.minademian.com), my personal tech blog.
 
