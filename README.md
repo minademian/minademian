@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I design and build systems that balance clarity, performance, and long-term maintainability.
+I design and build systems at various levels of complexity.
 
 Currently:
 
