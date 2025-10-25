@@ -30,6 +30,6 @@ Currently:
 
 I’m deepening my expertise in **React**, **TypeScript**, **Java**, **CI/CD**, **system design**, **software design and architecture** towards staff-level impact, system coherence, and scalable abstractions.
 
-💬 Check out my [growth docs](https://github.com/minademian/growth-docs), especially my [brag document](https://github.com/minademian/growth-docs/brag-document.md])!
+💬 Check out my [growth docs](https://github.com/minademian/growth-docs), especially my [brag document](https://github.com/minademian/growth-docs/blob/main/brag-doc.md)!
 
 📫 Reach me on **X (@minadimyan)** or by email at **mina at minademian dot com**.
