@@ -20,8 +20,9 @@ Currently:
 
 ## Engineering
 
-- 🔧 **Published** and actively **maintaining** an open-source project [`server-utilities`](https://github.com/minademian/server-utilities) - a collection of server utilities aimed at **auditing remote servers**.
-- 🔧 Building a [React Native app](https://github.com/Ursine-Inc/rn-no-choice-alarm) with my best friend - an alarm clock you can't snooze!
+- 🔧 **Published** and actively **maintaining** [`server-utilities`](https://github.com/minademian/server-utilities) - an open-source collection of server utilities aimed at **auditing remote servers**.
+- Actively **maintaining** [`yarn-shell-completion`](https://github.com/ursine-code/yarn-shell-completion) - an open-source Yarn shell completion script for `ohmyzsh` and `bash`
+- 🔧 Building a [KooM!](https://github.com/Ursine-Inc/rn-no-choice-alarm) with my best friend - an React Native app alarm clock that you can't snooze!
 - 🎧 Building a **semantic search database** and **MCP server** that **mines and enables quick access** to libraries of audio recordings.
 - 🔧 Building a **VSCode plugin** that enables easier access to your chats with GitHub Copilot
 
