@@ -21,9 +21,9 @@ Currently:
 ## Engineering
 
 - 🔧 **Published** and actively **maintaining** [`server-utilities`](https://github.com/minademian/server-utilities) - an open-source collection of server utilities aimed at **auditing remote servers**.
-- Actively **maintaining** [`yarn-shell-completion`](https://github.com/ursine-code/yarn-shell-completion) - an open-source Yarn shell completion script for `ohmyzsh` and `bash`
+- 🔧 **Published** and actively **maintaining** [`yarn-shell-completion`](https://github.com/ursine-code/yarn-shell-completion) - an open-source Yarn shell completion script for `ohmyzsh` and `bash`
+- 🔧 **Actively developing and maintaining** _Koptiska liturgiska texter_ ([Android](https://play.google.com/store/apps/details?id=com.copticapps.copticprayersfree&hl=sv) - [iOS](https://apps.apple.com/se/app/koptiska-liturgiska-texter/id1441254651)) - a React Native mobile application that houses liturgical texts in Swedish and Arabic for the Coptic Orthodox Church in Scandinvia
 - 🔧 Building a [KooM!](https://github.com/Ursine-Inc/rn-no-choice-alarm) with my best friend - an React Native app alarm clock that you can't snooze!
-- 🎧 Building a **semantic search database** and **MCP server** that **mines and enables quick access** to libraries of audio recordings.
 - 🔧 Building a **VSCode plugin** that enables easier access to your chats with GitHub Copilot
 
 ## Learning
