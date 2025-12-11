@@ -1,22 +1,6 @@
 # 👋 Hi, I’m Mina
 
-<!--
-**minademian/minademian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
 I design and build systems at various levels of complexity. It's full steam-ahead on deepening my expertise in **React**, **TypeScript**, **Java**, **CI/CD**, **system design**, **software design and architecture**.
-
-Currently:
 
 ## Engineering
 
@@ -25,6 +9,10 @@ Currently:
 - 🔧 **Actively developing and maintaining** _Koptiska liturgiska texter_ ([Android](https://play.google.com/store/apps/details?id=com.copticapps.copticprayersfree&hl=sv) - [iOS](https://apps.apple.com/se/app/koptiska-liturgiska-texter/id1441254651)) - a React Native mobile application that houses liturgical texts in Swedish and Arabic for the Coptic Orthodox Church in Scandinvia
 - 🔧 Building a [KooM!](https://github.com/Ursine-Inc/rn-no-choice-alarm) with my best friend - an React Native app alarm clock that you can't snooze!
 - 🔧 Building a **VSCode plugin** that enables easier access to your chats with GitHub Copilot
+
+## Documentation
+
+- Check out my [documentation library](https://github.com/minademian.com/documentation-library) for how-tos, system design documents, deep-dives, post-mortems, and operational runbooks!
 
 ## Learning
 - 🌱 Learning software architecture, design patterns, and modern Java development
@@ -37,3 +25,4 @@ Currently:
 - 🌐 Sharing what I learn, discover, and build on [my LinkedIn profile](https://www.linkedin.com/in/minademian/). See [my articles here](https://www.linkedin.com/in/minademian/recent-activity/articles/).
 
 📫 Reach me on **X (@minadimyan)** or by email at **mina at minademian dot com**.
+
