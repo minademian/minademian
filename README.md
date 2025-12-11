@@ -12,7 +12,7 @@ I design and build systems at various levels of complexity. It's full steam-ahea
 
 ## Documentation
 
-- Check out my [documentation library](https://github.com/minademian.com/documentation-library) for how-tos, system design documents, deep-dives, post-mortems, and operational runbooks!
+- Check out my [documentation library](https://github.com/minademian/documentation-library) for how-tos, system design documents, deep-dives, post-mortems, and operational runbooks!
 
 ## Learning
 - 🌱 Learning software architecture, design patterns, and modern Java development
